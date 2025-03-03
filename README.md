@@ -9,7 +9,9 @@ Especificaciones Técnicas:
 - La conecciones hacia la BD es través de web services.
 
   Video: https://youtu.be/tBsUcTqOm_0
-  [![Video de ejemplo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+  [![FenixView - App de Streaming](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=tBsUcTqOm_0))
+  
   App: https://drive.google.com/drive/folders/1ZAkhrt9trewRhEJQy3cB-U5bLEmHmSH8?usp=sharing
 
 
