@@ -1,2 +1,14 @@
 # App-Streaming
-A través de esta app podemos transmitir películas, series y canales de TV. La app viene con una base datos para administrar los usuarios y su vigencia. La app tiene preconfigurados algunas 0peliculas 
+A través de esta app se puede transmitir películas, series y canales de TV. 
+La app viene con una base datos en mysql para administrar los usuarios y su vigencia. 
+La app tiene preconfigurados algunas 100 películas, 7 series y 100 canales de tv como muestra.
+
+Especificaciones Técnicas:
+- Desarrollado para Android con Java y AndroidStudio
+- Soporta firebase storge y Formatos M3U8 y MP4.
+- La conecciones hacia la BD es través de web services.
+
+  Video: https://youtu.be/tBsUcTqOm_0
+
+  App: https://drive.google.com/drive/folders/1ZAkhrt9trewRhEJQy3cB-U5bLEmHmSH8?usp=sharing
+
